@@ -1,0 +1,24 @@
+#------------------------------------------------------
+#
+#エフェクトファイル[effect.txt]
+#平野舞
+#
+#-------------------------------------------------------
+
+#-------------------------------------------------------
+#エフェクト数
+#-------------------------------------------------------
+NUM_EFFECT = 7
+
+#-------------------------------------------------------
+#モデルファイル名
+#-------------------------------------------------------
+EFFECT_FILENAME = data/TEXTURE/shadow000.jpg			#[0]まる
+EFFECT_FILENAME = data/TEXTURE/effect000.png			#[1]召喚できそうなやつ
+EFFECT_FILENAME = data/TEXTURE/effect001.jpg			#[2]黄色の輪
+EFFECT_FILENAME = data/TEXTURE/effect002.jpg			#[3]青のぼわぼわ
+EFFECT_FILENAME = data/TEXTURE/effect003.jpg			#[4]青のまる
+EFFECT_FILENAME = data/TEXTURE/effect004.jpg			#[5]キラキラ
+EFFECT_FILENAME = data/TEXTURE/effect005.jpg			#[6]花火
+
+END_SCRIPT
